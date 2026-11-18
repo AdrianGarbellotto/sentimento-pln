@@ -1,0 +1,11 @@
+﻿texto,real,previsto,probabilidade,probabilidade_positivo
+O sabor é maravilhoso e as porções são generosas,positivo,negativo,0.5639129080452616,0.43608709195473844
+"Panela de péssima qualidade, a comida gruda e queima",negativo,positivo,0.5583870353597671,0.5583870353597671
+"Ambiente sujo e desorganizado, fui mal recebido",negativo,positivo,0.5429273129232447,0.5429273129232447
+"A série perdeu a graça, enrolação do começo ao fim",negativo,positivo,0.5626459380796126,0.5626459380796126
+"Ficou feio na sala, a cor é bem diferente da foto",negativo,positivo,0.5937853999565388,0.5937853999565388
+A loja é confiável e o suporte respondeu rapidinho,positivo,negativo,0.6527231261928699,0.34727687380713007
+"Aula dinâmica e interessante, aprendi muito em pouco tempo",positivo,negativo,0.6745083133549425,0.32549168664505745
+"Cheguei animado, mas me arrependi, tudo estava sujo",negativo,positivo,0.7010039734481325,0.7010039734481325
+"Esperava mais, a qualidade é bem inferior ao que prometeram",negativo,positivo,0.7461727064516079,0.7461727064516079
+Camiseta encolheu e desbotou depois da primeira lavagem,negativo,positivo,0.6161042790937945,0.6161042790937945

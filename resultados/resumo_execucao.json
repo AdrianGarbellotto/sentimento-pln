@@ -1,0 +1,38 @@
+{
+  "configuracao_escolhida": "C",
+  "criterio_escolha": "maior F1 médio na validação cruzada; desempate por acurácia média",
+  "configuracao": {
+    "config": "C",
+    "stopwords": "removidas",
+    "vetorizador": "BoW",
+    "vocabulario": 395,
+    "acc_cv_media": 0.8461538461538461,
+    "acc_cv_desvio": 0.08504166129116413,
+    "f1_cv_media": 0.8478456930318291,
+    "f1_cv_desvio": 0.08536603482897659
+  },
+  "metricas_teste": {
+    "acuracia_teste": 0.8461538461538461,
+    "f1_positivo_teste": 0.8529411764705882,
+    "total_teste": 65,
+    "total_erros": 10,
+    "matriz_confusao": [
+      [
+        26,
+        7
+      ],
+      [
+        3,
+        29
+      ]
+    ]
+  },
+  "casos_dificeis": {
+    "total_casos": 13,
+    "casos_com_rotulo_binario": 10,
+    "acertos_nos_casos_binarios": 6,
+    "acuracia_nos_casos_binarios": 0.6,
+    "casos_mistos_neutros_nao_avaliados_com_acuracia": 3
+  },
+  "observacao": "Casos mistos/neutros foram previstos como positivo ou negativo, mas não entraram no cálculo de acurácia dos casos difíceis."
+}
